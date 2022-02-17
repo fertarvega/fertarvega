@@ -27,6 +27,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp#&logoColor=4479A1)&nbsp;
+![Unity](https://img.shields.io/badge/unity-05122A?style=flat&logo=unity#&logoColor=4479A1)&nbsp;
 
 
 <h3>Stats</h3>
