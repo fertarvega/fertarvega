@@ -1,15 +1,22 @@
 <h1 align="center">Hi 🥳, I'm Fernando Tarango</h1>
-<h3 align="center">An IT student that wants to be a game dev</h3>
+<h3 align="center">An IT student that wants to be a game developer</h3>
 
 
 <p align="center">
-<a href="https://steamcommunity.com/id/Fertrick"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"></a>
 <a href="https://www.linkedin.com/in/fertarvega/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<h3 align="center">Technologies, Tools and Programming Languages</h3>
+***Talking about Personal Stuffs...***
+
+✔ I’m currently studying **Multiplatform Software Development**<br>
+✔ I’m currently learning **Unity** & **C#**<br>
+✔ I’m currently developing **Potion Clicker**<br>
+ 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
