@@ -22,7 +22,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![ClipStudioPaint](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=ClipStudioPaint)
 
 <h3>Stats</h3>
 <p><a href="https://github.com/AVS1508">
