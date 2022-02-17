@@ -18,7 +18,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity#&logoColor=4479A1)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp#&logoColor=4479A1)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
