@@ -11,7 +11,7 @@
 ✔ I’m currently studying **Multiplatform Software Development**<br>
 ✔ I’m currently learning about game development on **Unity** & **C#**<br>
 ✔ I’m currently learning **digital drawing** & **pixelart**<br>
-✔ I’m currently developing **Potion Clicker**<br>
+✔ I’m currently developing **prototypes in Unity**<br>
  
 
 ***Languages & Tools I Know...***
