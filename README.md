@@ -35,11 +35,11 @@
 
 <h3>Stats</h3>
 <p><a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarvef&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fertrick&show_icons=true&theme=radical" />
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarvef&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fertrick&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarvef&theme=radical&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fertrick&theme=radical&hide_border=true"/>
 </p>
