@@ -12,7 +12,7 @@
 ✔ I’m currently developing **prototypes in Unity**<br>
 ✔ I like to achieve **goals** and complete **challenges**<br>
 
-***Languages & Tools I Know...***
+***Languages & Tools***
 
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity#&logoColor=4479A1)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp#&logoColor=4479A1)&nbsp;
