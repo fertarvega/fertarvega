@@ -8,9 +8,9 @@
 
 ***Talking about Personal Stuffs...***
 
-✔ I’m currently studying **Multiplatform Software Development**<br>
+✔ I’m a **Software Engineer**<br>
 ✔ I’m currently developing **prototypes in Unity**<br>
- 
+✔ I like to achieve **goals** and complete **challenges**<br>
 
 ***Languages & Tools I Know...***
 
