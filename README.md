@@ -10,7 +10,7 @@
 ***Talking about Personal Stuffs...***
 
 ✔ I’m a **Software Engineer**<br>
-✔ I’m currently developing **prototypes in Unity**<br>
+✔ I’m currently developing **prototypes in Unity and Reactjs**<br>
 ✔ I like to achieve **goals** and complete **challenges**<br>
 
 ***Languages & Tools***
