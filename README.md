@@ -1,17 +1,16 @@
 <h1 align="center">Hi 🥳, I'm Fernando Tarango</h1>
-<h3 align="center">An IT student that wants to be a game developer</h3>
+<h3 align="center">FullStack software developer focused on Frontend.</h3>
 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fertarvega/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://portfolio-fernando-tarango.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://portfolio.fertarvega.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-***Talking about Personal Stuffs...***
 
-✔ I’m a **Software Engineer**<br>
-✔ I’m currently developing **prototypes in Unity and Reactjs**<br>
-✔ I like to achieve **goals** and complete **challenges**<br>
+✔ I’m currently developing **prototypes in React, NextJS, Astro and AWS.**<br>
+✔ Playing with **AI and LLMs.**<br>
+✔ Studying **Unity and Godot.**<br>
 
 ***Languages & Tools***
 
@@ -30,7 +29,9 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Vercel&logoColor=00599C)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=00599C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&logoColor=00599C)&nbsp;
 
 
 <h3>Stats</h3>
